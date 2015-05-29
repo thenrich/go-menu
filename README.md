@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/thenrich/go-menu.svg?style=svg)](https://circleci.com/gh/thenrich/go-menu)
+
 # go-menu
 A library for building simple, interactive, menus in Go
 
